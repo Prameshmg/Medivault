@@ -6,7 +6,7 @@ This project is a comprehensive medical record management system, divided into a
 
 The repository is structured into two main directories to separate the client and server concerns:
 
-
+```
 Medivault/
 ├── backend/
 │   ├── controllers/
